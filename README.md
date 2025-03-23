@@ -38,11 +38,3 @@ I am a passionate software engineering student with a strong interest in technol
 <a href="http://www.github.com/PiumiYasodhara"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PiumiYasodhara&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/PiumiYasodhara" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiumiYasodhara&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/PiumiYasodhara/AI-Appointment-Scheduler" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PiumiYasodhara&repo=AI-Appointment-Scheduler&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/PiumiYasodhara/Mini-Project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PiumiYasodhara&repo=Mini-Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/PiumiYasodhara/GoodFirstIssue" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PiumiYasodhara&repo=GoodFirstIssue&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/PiumiYasodhara/PiumiYasodhara" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PiumiYasodhara&repo=PiumiYasodhara&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
