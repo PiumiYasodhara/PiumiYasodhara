@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="[https://camo.githubusercontent.com/32513d20e5de414c6cea5be17236ec60852df5219420cedebada8c556e801e73/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3135393964373130373031393732352e356639643363376261653633362e676966](https://v1.pinimg.com/videos/mc/expMp4/d8/2c/e7/d82ce7fbb0b2c37d642162fed355dab5_t1.mp4)" alt="Animated Header" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0891b2&height=200&section=header&text=Piumi%20Yasodhara&fontSize=70" alt="Header" />
 </p>
+
+# Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674 e.gif" width="30px"> My name is Piumi Yasodhara
 
 
 
