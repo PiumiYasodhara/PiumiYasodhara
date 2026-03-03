@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0891b2&height=200&section=header&text=Piumi%20Yasodhara&fontSize=70" alt="Header" />
+  <img src="[https://capsule-render.vercel.app/render?type=waving&color=0891b2&height=200&section=header&text=Piumi%20Yasodhara&fontSize=70](https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif)" alt="Header" />
 </p>
-
-# Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674 e.gif" width="30px"> My name is Piumi Yasodhara
 
 
 
